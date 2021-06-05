@@ -14,3 +14,4 @@
 - Template Method
 - Bride
 - Composite
+- Git
